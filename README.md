@@ -1,2 +1,3 @@
-# Assignment-12
-This repository has the contents of EVA assignment 12
+# One Cycle LR Policy
+## Assignment-12
+One cycle LR policy is implemented and an attempt to achieve superconvergence by tweaking hyperparameters is made
